@@ -1,6 +1,6 @@
 ## About
 
-[BIO NOME](https://github.com/bio-nome/)
+[[BIO NOME](https://github.com/bio-nome/)]
 
 ![nomedotbio_github_dpjpg](https://user-images.githubusercontent.com/117607183/200386640-f32d2736-9426-40bd-8fbf-c72a5889f75f.jpg)
 
