@@ -1,6 +1,6 @@
 ## About [[BIO NOME](https://github.com/bio-nome/)]
 
-- 👋 Hi, we are [@bio-nome](https://bio-nome.github.io/)!
+- 👋 Hi, we are [[@bio-nome](https://bio-nome.github.io/)]!
 - 👀 Interested in scalable genomic data-pipeline.
 - 🌱 On a mission to develop pyspark based gpu optimised genomic workflows.
 - 💞️ Looking to collaborate on Genomics and Bioinformatics.
